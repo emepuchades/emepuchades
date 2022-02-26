@@ -1,0 +1,48 @@
+### Hi there! I'm María Puchades - aka Puchi 👋 
+   <img align="center" width="150" src="https://user-images.githubusercontent.com/100128850/155819007-021246a8-b223-4af5-bb2b-7a49ea4a95fd.png" />
+
+
+## I'm developer, gamer and dog mom 🐶
+
+- 💞️ I’m looking to collaborate with other open source projects
+- 🔥 2022 Goals: Create my first app on my own
+- ⚡ Fun fact: I love cooking and my best recipe is paella 🥘
+
+### Connect with me:
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" style="padding-right:10px;" />][linkedin]
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+---
+
+### Skills:
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RubyOnRails" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/ruby/original/RubyOriginal.svg" style="padding-right:10px;" />
+<img align="left" alt="Rails" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/rails/original-wordmark/RailsOriginalWordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+### Languages and tools I am learning:
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/swift/original/SwiftOriginal.svg" style="padding-right:10px;" />
+<img align="left" alt="Illustrator.js" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/illustrator/line/IllustratorLine.svg" style="padding-right:10px;" />
+
+
+[twitter]: https://twitter.com/emepuchades
+[instagram]: https://instagram.com/puchidev7
+[linkedin]: https://www.linkedin.com/in/mar%C3%ADa-puchades/
+
+<!---
+emepuchades/emepuchades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
