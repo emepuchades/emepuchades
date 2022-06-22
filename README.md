@@ -39,7 +39,7 @@
 
 
 [twitter]: https://twitter.com/emepuchades
-[instagram]: https://instagram.com/puchidev7
+[instagram]: https://instagram.com/emepuchades
 [linkedin]: https://www.linkedin.com/in/mar%C3%ADa-puchades/
 
 <!---
