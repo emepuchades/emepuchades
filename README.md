@@ -37,6 +37,12 @@
 <img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/swift/original/SwiftOriginal.svg" style="padding-right:10px;" />
 <img align="left" alt="Illustrator.js" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/illustrator/line/IllustratorLine.svg" style="padding-right:10px;" />
 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+ <img src="https://github-readme-stats.vercel.app/api?username=emepuchades&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="emepuchades's github stats" />
+
+
 
 [twitter]: https://twitter.com/emepuchades
 [instagram]: https://instagram.com/emepuchades
