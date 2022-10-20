@@ -11,7 +11,7 @@
 ### Connect with me:
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" style="padding-right:10px;" />][twitter]
-[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" style="padding-right:10px;" />][linkedin]
+
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
@@ -46,7 +46,6 @@
 
 [twitter]: https://twitter.com/emepuchades
 [instagram]: https://instagram.com/emepuchades
-[linkedin]: https://www.linkedin.com/in/mar%C3%ADa-puchades/
 
 <!---
 emepuchades/emepuchades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
