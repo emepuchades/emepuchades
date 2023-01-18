@@ -5,7 +5,7 @@
 ## I'm developer, gamer and dog mom 🐶
 
 - 💞️ I’m looking to collaborate with other open source projects
-- 🔥 2022 Goals: Create my first app on my own
+- 🔥 2023 Goals: Create my first app on my own
 - ⚡ Fun fact: I love cooking and my best recipe is paella 🥘
 
 ### Connect with me:
