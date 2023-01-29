@@ -1,6 +1,5 @@
 ### Hi there! I'm María Puchades - aka Puchi 👋 
-   <img align="center" width="150" src="https://user-images.githubusercontent.com/100128850/155819007-021246a8-b223-4af5-bb2b-7a49ea4a95fd.png" />
-
+   <img align="center" width="150" src="https://user-images.githubusercontent.com/100128850/215321178-1046cc1a-b460-4fa1-8681-448084110811.png" />
 
 ## I'm developer, gamer and dog mom 🐶
 
