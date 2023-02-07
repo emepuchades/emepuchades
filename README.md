@@ -43,7 +43,7 @@
 
 
 [twitter]: https://twitter.com/puchiidev
-[instagram]: https://instagram.com/puchiidev
+[instagram]: https://instagram.com/puchiideev
 
 <!---
 emepuchades/emepuchades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
