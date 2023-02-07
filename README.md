@@ -1,11 +1,9 @@
 ### Hi there! I'm María Puchades - aka Puchi 👋 
-   <img align="center" width="150" src="https://user-images.githubusercontent.com/100128850/215321178-1046cc1a-b460-4fa1-8681-448084110811.png" />
 
 ## I'm developer, gamer and dog mom 🐶
 
 - 💞️ I’m looking to collaborate with other open source projects
 - 🔥 2023 Goals: Create my first app on my own
-- ⚡ Fun fact: I love cooking and my best recipe is paella 🥘
 
 ### Connect with me:
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="padding-right:10px;" />][instagram]
