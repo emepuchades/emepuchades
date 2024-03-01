@@ -40,10 +40,9 @@
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
+---
 
- <img src="https://github-readme-stats.vercel.app/api?username=emepuchades&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="emepuchades's github stats" />
-
-
+<img src="https://myreadme.vercel.app/api/embed/emepuchades?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
 
 [twitter]: https://twitter.com/puchiidev
 [instagram]: https://instagram.com/puchiideev
