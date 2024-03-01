@@ -3,7 +3,7 @@
 ## I'm developer, gamer and dog mom 🐶
 
 - 💞️ I’m looking to collaborate with other open source projects
-- 🔥 2023 Goals: Create my first app on my own
+- 🔥 2024 Goals: Create my first app on my own
 
 ### Connect with me:
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="padding-right:10px;" />][instagram]
