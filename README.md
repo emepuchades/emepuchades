@@ -16,24 +16,27 @@
 
 ### Skills:
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="RubyOnRails" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/ruby/original/RubyOriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="Rails" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/rails/original-wordmark/RailsOriginalWordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/react/original-wordmark/ReactOriginalWordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="RubyOnRails" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/ruby/original-wordmark/RubyOriginalWordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Rails" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/rails/original-wordmark/RailsOriginalWordmark.svg" style="padding-right:10px;" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/mysql/original-wordmark/MysqlOriginalWordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/github/original/GithubOriginal.svg" style="padding-right:10px;" />
+<img align="left" alt="AmazonWebServices" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/amazonwebservices/original-wordmark/AmazonwebservicesOriginalWordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Confluence" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/confluence/original-wordmark/ConfluenceOriginalWordmark.svg" style="padding-right:10px;" />
+
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
 ### Languages and tools I am learning:
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/swift/original/SwiftOriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="Illustrator.js" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/illustrator/line/IllustratorLine.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/angularjs/original/AngularjsOriginal.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/nodejs/original-wordmark/NodejsOriginalWordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Android" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/android/original-wordmark/AndroidOriginalWordmark.svg" style="padding-right:10px;" />
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
