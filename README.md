@@ -42,7 +42,7 @@
 &nbsp;&nbsp;
 ---
 
-<img src="https://myreadme.vercel.app/api/embed/emepuchades?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emepuchades&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=2B5BBD&text_color=A1A1A1&bg_color=FFFFFF" alt="my Github Stats"/>
 
 [twitter]: https://twitter.com/puchiidev
 [instagram]: https://instagram.com/puchiideev
