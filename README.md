@@ -1,53 +1,87 @@
-### Hi there! I'm María Puchades - aka Puchi 👋 
+<div align="center">
 
-## I'm developer, gamer and dog mom 🐶
+# 👋 Hi there! I'm María Puchades
 
-- 💞️ I’m looking to collaborate with other open source projects
-- 🔥 2026 Goals: Create my first app on my own
+### Developer • Gamer • Dog Mom 🐶
 
-### Connect with me:
-[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="padding-right:10px;" />][instagram]
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" style="padding-right:10px;" />][twitter]
+*I write code, I break things, I learn from it, and I keep improving.*
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/puchiideev)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/puchiiidev)
 
-&nbsp;&nbsp;
-&nbsp;&nbsp;
----
+</div>
 
-### Skills:
+<br>
 
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/react/original-wordmark/ReactOriginalWordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="RubyOnRails" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/ruby/original-wordmark/RubyOriginalWordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Rails" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/rails/original-wordmark/RailsOriginalWordmark.svg" style="padding-right:10px;" />
+## 🚀 About Me
 
-<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/mysql/original-wordmark/MysqlOriginalWordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/github/original/GithubOriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="AmazonWebServices" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/amazonwebservices/original-wordmark/AmazonwebservicesOriginalWordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Confluence" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/confluence/original-wordmark/ConfluenceOriginalWordmark.svg" style="padding-right:10px;" />
+💞️ **Looking to collaborate** on exciting open source projects  
+🔥 **2026 Goals:** Launch my first solo app and contribute more to the community  
+🌱 **Always learning** new technologies and best practices  
 
+<br>
 
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+## 🛠️ Tech Stack
 
-### Languages and tools I am learning:
-<img align="left" alt="Angular" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/angularjs/original/AngularjsOriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/nodejs/original-wordmark/NodejsOriginalWordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Android" width="35px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/android/original-wordmark/AndroidOriginalWordmark.svg" style="padding-right:10px;" />
+### 💻 Languages & Frameworks
 
-&nbsp;&nbsp;
-&nbsp;&nbsp;
----
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emepuchades&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=2B5BBD&text_color=A1A1A1&bg_color=FFFFFF" alt="my Github Stats"/>
+### 🗄️ Databases & Tools
 
-[twitter]: https://twitter.com/puchiidev
-[instagram]: https://instagram.com/puchiideev
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-<!---
-emepuchades/emepuchades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📚 Currently Learning
+
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emepuchades&theme=radical&hide_border=true)
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 📧 Reach out to discuss projects, ideas, or just to say hi
+- 💼 Open to contributing to open source initiatives
+- 🎮 Up for gaming sessions and tech talks
+
+<br>
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<p align="center">
+  <em>"One commit to rule them all" — Sauron, Full-Stack Overlord 💍</em>
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emepuchades&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<br>
