@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 ## 🚀 About Me
 
 💞️ **Looking to collaborate** on open source projects  
