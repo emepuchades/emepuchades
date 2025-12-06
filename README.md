@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-💞️ **Looking to collaborate** on exciting open source projects  
+💞️ **Looking to collaborate** on open source projects  
 🔥 **2026 Goals:** Launch my first solo app and contribute more to the community  
 🌱 **Always learning** new technologies and best practices  
 
