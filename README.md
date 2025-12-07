@@ -46,14 +46,9 @@
 
 <br>
 
-## 📊 GitHub Stats
+## Badges Earned
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emepuchades&theme=radical&hide_border=true)
-
-</div>
-
+[![An image of @emepuchades's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emepuchades)](https://holopin.io/@emepuchades)
 <br>
 
 ## 🤝 Let's Connect!
