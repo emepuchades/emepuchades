@@ -11,7 +11,7 @@
 
 <img src="assets/heading-stack-dark.svg#gh-dark-mode-only" width="100%" alt="Tech stack"><img src="assets/heading-stack-light.svg#gh-light-mode-only" width="100%" alt="Tech stack">
 
-<img src="assets/stack-dark.svg#gh-dark-mode-only" width="100%" alt="Languages &amp; frameworks: HTML5, CSS3, JavaScript, React, Ruby, Rails. Databases &amp; tools: MongoDB, MySQL, GitHub, AWS, Confluence. Currently learning: Angular, Node.js, Android"><img src="assets/stack-light.svg#gh-light-mode-only" width="100%" alt="Languages &amp; frameworks: HTML5, CSS3, JavaScript, React, Ruby, Rails. Databases &amp; tools: MongoDB, MySQL, GitHub, AWS, Confluence. Currently learning: Angular, Node.js, Android">
+<img src="assets/stack-dark.svg#gh-dark-mode-only" width="100%" alt="React (Front), Angular (Front), TypeScript (Front), JavaScript (Front), React Native (Mobile), Ruby on Rails (Back), Java · Spring (Back), Node.js (Back), Oracle (Data), PostgreSQL (Data), Claude API (AI), Docker (Tools)"><img src="assets/stack-light.svg#gh-light-mode-only" width="100%" alt="React (Front), Angular (Front), TypeScript (Front), JavaScript (Front), React Native (Mobile), Ruby on Rails (Back), Java · Spring (Back), Node.js (Back), Oracle (Data), PostgreSQL (Data), Claude API (AI), Docker (Tools)">
 
 <img src="assets/heading-badges-dark.svg#gh-dark-mode-only" width="100%" alt="Badges"><img src="assets/heading-badges-light.svg#gh-light-mode-only" width="100%" alt="Badges">
 
