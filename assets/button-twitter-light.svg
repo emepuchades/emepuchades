@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 52" width="260" height="52" role="img" aria-labelledby="t">
+<title id="t">Twitter</title>
+<defs>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="3.5" result="blur"/>
+    <feFlood flood-color="#e8100c" flood-opacity="0.35"/>
+    <feComposite in2="blur" operator="in"/>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="frameGlow" x="-5%" y="-10%" width="110%" height="120%">
+    <feGaussianBlur stdDeviation="9" result="blur"/>
+    <feFlood flood-color="#e8100c" flood-opacity="0.16"/>
+    <feComposite in2="blur" operator="in"/>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feFlood flood-color="#050505" flood-opacity="0.3"/>
+    <feComposite in2="blur" operator="in"/>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="redSilhouette" x="0" y="0" width="100%" height="100%">
+    <feFlood flood-color="#e8100c"/>
+    <feComposite in2="SourceAlpha" operator="in"/>
+  </filter>
+  <pattern id="hazard" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+    <rect width="8" height="16" fill="#e8100c"/>
+  </pattern>
+  <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+    <path d="M64 0H0V64" fill="none" stroke="rgba(5, 5, 5, 0.07)" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="topGlow" cx="50%" cy="-5%" r="60%">
+    <stop offset="0" stop-color="#e8100c" stop-opacity="0.1"/>
+    <stop offset="1" stop-color="#e8100c" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="gridFade" cx="50%" cy="30%" r="75%">
+    <stop offset="0.45" stop-color="#fff"/>
+    <stop offset="1" stop-color="#000"/>
+  </radialGradient>
+  <mask id="gridMask"><rect width="100%" height="100%" fill="url(#gridFade)"/></mask></defs>
+<style>
+  .enter { animation: enter 700ms cubic-bezier(0.23, 1, 0.32, 1) var(--d, 0ms) both; }
+  .neon { animation: neonOn 1300ms linear var(--d, 0ms) backwards; }
+  .frame-on { animation: frameOn 900ms linear var(--d, 150ms) backwards; }
+  .rise { animation: rise 700ms cubic-bezier(0.23, 1, 0.32, 1) 100ms both; }
+  .rule { transform-box: fill-box; transform-origin: left center; animation: rule 900ms cubic-bezier(0.77, 0, 0.175, 1) 200ms both; }
+  .fade { animation: fade 500ms ease var(--d, 500ms) both; }
+  .blink { animation: blink 1.6s steps(1) infinite; }
+  @keyframes enter { from { opacity: 0; transform: translateY(14px); } }
+  @keyframes rise { from { transform: translateY(110%); } }
+  @keyframes rule { from { transform: scaleX(0); } }
+  @keyframes fade { from { opacity: 0; } }
+  @keyframes blink { 50% { opacity: 0.25; } }
+  @keyframes neonOn {
+    0% { opacity: 0.06; filter: none; }
+    8% { opacity: 1; }
+    11% { opacity: 0.15; }
+    19% { opacity: 0.9; }
+    22% { opacity: 0.25; filter: none; }
+    38%, 100% { opacity: 1; }
+  }
+  @keyframes frameOn {
+    0% { stroke-opacity: 0.2; }
+    10% { stroke-opacity: 1; }
+    14% { stroke-opacity: 0.25; }
+    26% { stroke-opacity: 1; }
+    30% { stroke-opacity: 0.35; }
+    40%, 100% { stroke-opacity: 1; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .enter, .rise, .rule, .fade { animation: enterFade 700ms ease both; }
+    .neon, .frame-on, .blink { animation: none; }
+    @keyframes enterFade { from { opacity: 0; } }
+  }</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+
+  <rect x="2" y="2" width="256" height="48" fill="#ffffff" stroke="#e8100c" stroke-width="2"/>
+  <path d="M89.56 32L88.55 32L88.55 24.54L86.10 24.54L86.10 23.60L92.01 23.60L92.01 24.54L89.56 24.54L89.56 32ZM98.19 32L96.35 32L95.50 23.60L96.41 23.60L97.22 31.57L97.36 31.57L98.12 23.60L99.96 23.60L100.72 31.57L100.86 31.57L101.67 23.60L102.58 23.60L101.73 32L99.89 32L99.11 24.03L98.97 24.03L98.19 32ZM111.69 32L106.36 32L106.36 31.06L108.52 31.06L108.52 24.54L106.36 24.54L106.36 23.60L111.69 23.60L111.69 24.54L109.53 24.54L109.53 31.06L111.69 31.06L111.69 32ZM119.51 32L118.50 32L118.50 24.54L116.06 24.54L116.06 23.60L121.96 23.60L121.96 24.54L119.51 24.54L119.51 32ZM129.50 32L128.49 32L128.49 24.54L126.04 24.54L126.04 23.60L131.94 23.60L131.94 24.54L129.50 24.54L129.50 32ZM141.59 32L136.43 32L136.43 23.60L141.52 23.60L141.52 24.54L137.44 24.54L137.44 27.32L141.45 27.32L141.45 28.26L137.44 28.26L137.44 31.06L141.59 31.06L141.59 32ZM147.32 32L146.31 32L146.31 23.60L149.31 23.60Q150.17 23.60 150.74 23.92Q151.31 24.24 151.59 24.75Q151.88 25.27 151.88 25.88L151.88 25.88L151.88 26.24Q151.88 26.71 151.62 27.18Q151.36 27.64 150.82 27.90L150.82 27.90L150.82 28.04Q151.18 28.09 151.38 28.32Q151.59 28.56 151.59 28.98L151.59 28.98L151.59 32L150.58 32L150.58 29.19Q150.58 28.88 150.44 28.71Q150.29 28.54 149.93 28.54L149.93 28.54L147.32 28.54L147.32 32ZM147.32 24.54L147.32 27.61L149.19 27.61Q150.87 27.61 150.87 26.17L150.87 26.17L150.87 25.95Q150.87 25.32 150.45 24.93Q150.04 24.54 149.19 24.54L149.19 24.54L147.32 24.54Z" fill="#050505" />
+  <path d="M172.44 26.80L168.86 30.39L168.24 29.78L171.83 26.19L172.34 25.93L172.28 25.78L171.62 25.96L170.13 25.96L170.13 25.10L172.72 25.10L173.54 25.92L173.54 28.51L172.67 28.51L172.67 27.02L172.85 26.36L172.71 26.30L172.44 26.80Z" fill="#e8100c" />
+</svg>

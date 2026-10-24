@@ -1,80 +1,72 @@
-<div align="center">
-
-# 👋 Hi there! I'm María Puchades
-
-### Developer • Gamer • Dog Mom 🐶
-
-*I write code, I break things, I learn from it, and I keep improving.*
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/puchiideev)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/puchiiidev)
-
-</div>
-
-## 🚀 About Me
-
-💞️ **Looking to collaborate** on open source projects  
-🔥 **2026 Goals:** Launch my first solo app and contribute more to the community  
-🌱 **Always learning** new technologies and best practices  
-
-<br>
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-### 🗄️ Databases & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
-### 📚 Currently Learning
-
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-<br>
-
-## Badges Earned
-
-[![An image of @emepuchades's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emepuchades)](https://holopin.io/@emepuchades)
-<br>
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 📧 Reach out to discuss projects, ideas, or just to say hi
-- 💼 Open to contributing to open source initiatives
-- 🎮 Up for gaming sessions and tech talks
-
-<br>
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Hi there! I'm María Puchades — Developer · Gamer · Dog mom. I write code, I break things, I learn from it, and I keep improving.">
+</picture>
 
 <p align="center">
-  <em>"One commit to rule them all" — Sauron, Full-Stack Overlord 💍</em>
+  <a href="https://instagram.com/puchiideev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/button-instagram-dark.svg">
+  <img src="assets/button-instagram-light.svg" width="260" alt="Instagram">
+</picture></a>
+  <a href="https://twitter.com/puchiiidev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/button-twitter-dark.svg">
+  <img src="assets/button-twitter-light.svg" width="260" alt="Twitter">
+</picture></a>
 </p>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-about-dark.svg">
+  <img src="assets/heading-about-light.svg" width="100%" alt="About me">
+</picture>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img src="assets/about-light.svg" width="100%" alt="Looking to collaborate on open source projects. 2026 goals: launch my first solo app and contribute more to the community. Always learning new technologies and best practices">
+</picture>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emepuchades&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-stack-dark.svg">
+  <img src="assets/heading-stack-light.svg" width="100%" alt="Tech stack">
+</picture>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Languages &amp; frameworks: HTML5, CSS3, JavaScript, React, Ruby, Rails. Databases &amp; tools: MongoDB, MySQL, GitHub, AWS, Confluence. Currently learning: Angular, Node.js, Android">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-badges-dark.svg">
+  <img src="assets/heading-badges-light.svg" width="100%" alt="Badges">
+</picture>
+
+<a href="https://holopin.io/@emepuchades"><img src="https://holopin.me/emepuchades" width="100%" alt="Holopin badges of @emepuchades"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-connect-dark.svg">
+  <img src="assets/heading-connect-light.svg" width="100%" alt="Let's connect">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/connect-dark.svg">
+  <img src="assets/connect-light.svg" width="100%" alt="I'm always open to interesting conversations. Reach out to discuss projects, ideas, or just to say hi. Open to contributing to open source initiatives. Up for gaming sessions and tech talks">
+</picture>
+
+<p align="center">
+  <a href="https://instagram.com/puchiideev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/button-instagram-dark.svg">
+  <img src="assets/button-instagram-light.svg" width="260" alt="Instagram">
+</picture></a>
+  <a href="https://twitter.com/puchiiidev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/button-twitter-dark.svg">
+  <img src="assets/button-twitter-light.svg" width="260" alt="Twitter">
+</picture></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="Thanks for visiting my profile! &quot;One commit to rule them all&quot; — Sauron, Full-Stack Overlord">
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emepuchades&color=e8100c&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
+</p>
