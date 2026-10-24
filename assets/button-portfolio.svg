@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 52" width="200" height="52" role="img" aria-labelledby="t">
+<title id="t">Portfolio</title>
+<defs>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="3.5" result="blur"/>
+    <feFlood flood-color="#e8100c" flood-opacity="0.55"/>
+    <feComposite in2="blur" operator="in"/>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="frameGlow" x="-5%" y="-10%" width="110%" height="120%">
+    <feGaussianBlur stdDeviation="9" result="blur"/>
+    <feFlood flood-color="#e8100c" flood-opacity="0.22"/>
+    <feComposite in2="blur" operator="in"/>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feFlood flood-color="#f2f0ec" flood-opacity="0.3"/>
+    <feComposite in2="blur" operator="in"/>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="redSilhouette" x="0" y="0" width="100%" height="100%">
+    <feFlood flood-color="#e8100c"/>
+    <feComposite in2="SourceAlpha" operator="in"/>
+  </filter>
+  <pattern id="hazard" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+    <rect width="8" height="16" fill="#e8100c"/>
+  </pattern>
+  <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+    <path d="M64 0H0V64" fill="none" stroke="rgba(242, 240, 236, 0.065)" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="topGlow" cx="50%" cy="-5%" r="60%">
+    <stop offset="0" stop-color="#e8100c" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#e8100c" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="gridFade" cx="50%" cy="30%" r="75%">
+    <stop offset="0.45" stop-color="#fff"/>
+    <stop offset="1" stop-color="#000"/>
+  </radialGradient>
+  <mask id="gridMask"><rect width="100%" height="100%" fill="url(#gridFade)"/></mask></defs>
+<style>
+  .enter { animation: enter 700ms cubic-bezier(0.23, 1, 0.32, 1) var(--d, 0ms) both; }
+  .neon { animation: neonOn 1300ms linear var(--d, 0ms) backwards; }
+  .frame-on { animation: frameOn 900ms linear var(--d, 150ms) backwards; }
+  .rise { animation: rise 700ms cubic-bezier(0.23, 1, 0.32, 1) 100ms both; }
+  .rule { transform-box: fill-box; transform-origin: left center; animation: rule 900ms cubic-bezier(0.77, 0, 0.175, 1) 200ms both; }
+  .fade { animation: fade 500ms ease var(--d, 500ms) both; }
+  .blink { animation: blink 1.6s steps(1) infinite; }
+  @keyframes enter { from { opacity: 0; transform: translateY(14px); } }
+  @keyframes rise { from { transform: translateY(110%); } }
+  @keyframes rule { from { transform: scaleX(0); } }
+  @keyframes fade { from { opacity: 0; } }
+  @keyframes blink { 50% { opacity: 0.25; } }
+  @keyframes neonOn {
+    0% { opacity: 0.06; filter: none; }
+    8% { opacity: 1; }
+    11% { opacity: 0.15; }
+    19% { opacity: 0.9; }
+    22% { opacity: 0.25; filter: none; }
+    38%, 100% { opacity: 1; }
+  }
+  @keyframes frameOn {
+    0% { stroke-opacity: 0.2; }
+    10% { stroke-opacity: 1; }
+    14% { stroke-opacity: 0.25; }
+    26% { stroke-opacity: 1; }
+    30% { stroke-opacity: 0.35; }
+    40%, 100% { stroke-opacity: 1; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .enter, .rise, .rule, .fade { animation: enterFade 700ms ease both; }
+    .neon, .frame-on, .blink { animation: none; }
+    @keyframes enterFade { from { opacity: 0; } }
+  }</style>
+
+
+  <rect x="2" y="2" width="196" height="48" fill="none" stroke="#e8100c" stroke-width="2"/>
+  <path d="M46.53 32L46.53 23.6L49.82 23.6Q50.68 23.6 51.25 23.95Q51.82 24.31 52.1 24.87Q52.38 25.42 52.38 26.04L52.38 26.32Q52.38 26.95 52.1 27.52Q51.82 28.1 51.25 28.47Q50.68 28.83 49.82 28.83L48.11 28.83L48.11 32ZM48.11 27.32L49.66 27.32Q50.19 27.32 50.5 27.03Q50.8 26.74 50.8 26.29L50.8 26.14Q50.8 25.69 50.5 25.4Q50.19 25.11 49.66 25.11L48.11 25.11ZM59.32 32.17Q57.88 32.17 57.05 31.29Q56.23 30.4 56.23 28.74L56.23 26.86Q56.23 25.24 57.05 24.34Q57.88 23.43 59.32 23.43Q60.76 23.43 61.59 24.34Q62.42 25.24 62.42 26.86L62.42 28.74Q62.42 30.4 61.59 31.29Q60.76 32.17 59.32 32.17ZM59.32 30.73Q60.19 30.73 60.51 30.2Q60.83 29.67 60.83 28.83L60.83 26.77Q60.83 26.24 60.68 25.81Q60.52 25.38 60.19 25.12Q59.86 24.87 59.32 24.87Q58.78 24.87 58.45 25.12Q58.11 25.38 57.96 25.81Q57.81 26.24 57.81 26.77L57.81 28.83Q57.81 29.67 58.13 30.2Q58.46 30.73 59.32 30.73ZM66.51 32L66.51 23.6L69.72 23.6Q70.59 23.6 71.18 23.91Q71.77 24.22 72.06 24.75Q72.36 25.27 72.36 25.92L72.36 26.2Q72.36 26.72 72.08 27.17Q71.8 27.62 71.24 27.86L71.24 28.08Q71.66 28.12 71.9 28.4Q72.15 28.68 72.15 29.1L72.15 32L70.56 32L70.56 29.48Q70.56 29.19 70.41 29.01Q70.27 28.83 69.92 28.83L68.09 28.83L68.09 32ZM68.09 27.32L69.6 27.32Q70.18 27.32 70.48 27.04Q70.78 26.77 70.78 26.29L70.78 26.14Q70.78 25.72 70.48 25.42Q70.18 25.11 69.6 25.11L68.09 25.11ZM78.5 32L78.5 25.11L76.26 25.11L76.26 23.6L82.31 23.6L82.31 25.11L80.08 25.11L80.08 32ZM86.66 32L86.66 23.6L92.03 23.6L92.03 25.11L88.24 25.11L88.24 27.03L91.96 27.03L91.96 28.54L88.24 28.54L88.24 32ZM99.26 32.17Q97.82 32.17 96.99 31.29Q96.16 30.4 96.16 28.74L96.16 26.86Q96.16 25.24 96.99 24.34Q97.82 23.43 99.26 23.43Q100.7 23.43 101.53 24.34Q102.35 25.24 102.35 26.86L102.35 28.74Q102.35 30.4 101.53 31.29Q100.7 32.17 99.26 32.17ZM99.26 30.73Q100.12 30.73 100.45 30.2Q100.77 29.67 100.77 28.83L100.77 26.77Q100.77 26.24 100.61 25.81Q100.46 25.38 100.13 25.12Q99.8 24.87 99.26 24.87Q98.72 24.87 98.38 25.12Q98.05 25.38 97.9 25.81Q97.75 26.24 97.75 26.77L97.75 28.83Q97.75 29.67 98.07 30.2Q98.39 30.73 99.26 30.73ZM106.55 32L106.55 23.6L108.14 23.6L108.14 30.49L111.95 30.49L111.95 32ZM116.42 32L116.42 30.49L118.43 30.49L118.43 25.11L116.42 25.11L116.42 23.6L122.03 23.6L122.03 25.11L120.02 25.11L120.02 30.49L122.03 30.49L122.03 32ZM129.21 32.17Q127.77 32.17 126.94 31.29Q126.11 30.4 126.11 28.74L126.11 26.86Q126.11 25.24 126.94 24.34Q127.77 23.43 129.21 23.43Q130.65 23.43 131.48 24.34Q132.31 25.24 132.31 26.86L132.31 28.74Q132.31 30.4 131.48 31.29Q130.65 32.17 129.21 32.17ZM129.21 30.73Q130.07 30.73 130.4 30.2Q130.72 29.67 130.72 28.83L130.72 26.77Q130.72 26.24 130.56 25.81Q130.41 25.38 130.08 25.12Q129.75 24.87 129.21 24.87Q128.67 24.87 128.33 25.12Q128 25.38 127.85 25.81Q127.7 26.24 127.7 26.77L127.7 28.83Q127.7 29.67 128.02 30.2Q128.34 30.73 129.21 30.73Z" fill="#e8100c"/>
+  <g transform="translate(-30.04 0)"><path d="M182.43 26.80L178.84 30.39L178.23 29.78L181.82 26.19L182.32 25.93L182.26 25.78L181.60 25.96L180.11 25.96L180.11 25.10L182.70 25.10L183.52 25.92L183.52 28.51L182.66 28.51L182.66 27.02L182.84 26.36L182.69 26.30L182.43 26.80Z" fill="#e8100c"/></g>
+</svg>
